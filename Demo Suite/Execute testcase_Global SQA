@@ -1,0 +1,39 @@
+{
+  "testSteps" : [ {
+    "Step_Number" : 1,
+    "Step_Description" : "go to url",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Go to url",
+    "Data_Column" : "1",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "https://www.google.com/",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Data_View_Type" : "text"
+  }, {
+    "Step_Number" : 2,
+    "Step_Description" : "Execute testcase",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "Global SQA",
+    "Locator_Value" : "ff2e364a-9a01-4a0c-95c8-bf247ed934b7",
+    "User_Action" : "Execute Test Case",
+    "Data_Column" : "2",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Data_View_Type" : "text"
+  } ],
+  "functionSteps" : [ ],
+  "iterateData" : [ ]
+}
